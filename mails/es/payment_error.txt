@@ -1,0 +1,24 @@
+
+[{shop_url}] 
+
+Hola {firstname} {lastname}, 
+
+Hay un problema con el pago del pedido de la tienda {shop_name} para
+el pedido con referencia {order_name}. Por favor, contacte con
+nosotros lo más pronto posible.
+
+NO PODEMOS ENVIAR SU PEDIDO HASTA QUE RECIBAMOS SU PAGO. 		 
+
+Puede revisar su pedido y descargar la factura desde "Historial de
+pedidos" [{history_url}] de su cuenta
+de cliente, haciendo clic en
+[{my_account_url}] en nuestra tienda. 
+
+Si tiene una cuenta de invitado, puede seguir su pedido desde la
+sección: "Seguimiento de invitado"
+[{guest_tracking_url}?id_order={order_name}]
+en nuestra tienda. 
+
+{shop_name} [{shop_url}] powered
+by PrestaShop(tm) [http://www.prestashop.com/] 
+
